@@ -1,0 +1,131 @@
+@{
+    ViewData["Title"] = "Compras";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Compras Producto</h1>
+    <p></p>
+</div>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form>
+                <div class="form-group mb-4">
+                    <label for="producto">Nombre del Producto:</label>
+                    <input type="text" class="form-control" id="producto" placeholder="Nombre del producto">
+                </div>
+                <div class="form-group mb-4">
+                    <label for="descripcion">Descripción:</label>
+                    <input type="text" class="form-control" id="descripcion" placeholder="Descripción del producto">
+                </div>
+                <div class="form-group mb-4">
+                    <label for="precio">Precio:</label>
+                    <input type="number" class="form-control" id="precio" placeholder="Precio">
+                </div>
+                <div class="form-group mb-4">
+                    <label for="precioVenta">Precio de Venta:</label>
+                    <input type="number" class="form-control" id="precioVenta" placeholder="Precio Venta">
+                </div>
+                <div class="form-group mb-4">
+                    <label for="cantidad">Cantidad:</label>
+                    <input type="number" class="form-control" id="cantidad" placeholder="Cantidad">
+                </div>
+                <div class="form-group mb-4 text-center">
+                    <button type="button" class="btn btn-primary" id="calcularBtn">
+                        Calcular
+                    </button>
+                </div>
+                <div class="form-group mb-4">
+                    <label for="total">Total Compra</label>
+                    <input type="number" class="form-control" id="total" placeholder="Total Compra" value="@ViewBag.Total" disabled>
+                </div>
+                 <div class="form-group mb-4">
+                    <label for="total">Total</label>
+                    <input type="number" class="form-control" id="total" placeholder="Total" value="@ViewBag.TotalVenta" disabled>
+                </div>
+                <div class="form-group mb-4">
+                    <button type="button" class="btn btn-success" id="agregarProductoBtn">
+                        Agregar Producto
+                    </button>
+                </div>
+
+                <table class="table table-bordered" id="productosTable">
+                    <thead>
+                        <tr>
+                            <th>Nombre del Producto</th>
+                            <th>Descripción</th>
+                            <th>Precio</th>
+                            <th>Cantidad</th>
+                            <th>Total</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Aquí se agregarán los productos -->
+                    </tbody>
+                </table>
+                <div class="form-group mb-4 text-center">
+                    <label for="archivo" style="color: red; font-weight: bold;">
+                        Subir Archivo (solo JPG y PNG):
+                    </label>
+                    <br>
+                    <input type="file" accept=".jpg, .png" class="form-control-file" id="archivo">
+                </div>
+                <div class="form-group mb-4 text-center">
+                    <button type="button" class="btn btn-danger">
+                        <i class="fas fa-store" style="color: white;"></i> Cancelar Compra
+                    </button>
+                    <button type="submit" class="btn btn-info">
+                        <i class="fas fa-store" style="color: white;"></i> <span style="color: white;">Registrar Compra</span>
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+    document.getElementById('calcularBtn').addEventListener('click', function() {
+        var precio = parseFloat(document.getElementById('precio').value);
+        var cantidad = parseInt(document.getElementById('cantidad').value);
+        
+        var total = precio * cantidad;
+        document.getElementById('total').value = total.toFixed(2);
+    });
+
+    document.getElementById('agregarProductoBtn').addEventListener('click', function() {
+        var producto = document.getElementById('producto').value;
+        var descripcion = document.getElementById('descripcion').value;
+        var precio = parseFloat(document.getElementById('precio').value);
+        var cantidad = parseInt(document.getElementById('cantidad').value);
+        var total = (precio * cantidad).toFixed(2);
+
+        // Validar campos vacíos
+        if (!producto || !descripcion || isNaN(precio) || isNaN(cantidad)) {
+            alert("Todos los campos son requeridos.");
+            return;
+        }
+
+        // Agregar el producto a la tabla
+        var newRow = `
+            <tr>
+                <td>${producto}</td>
+                <td>${descripcion}</td>
+                <td>${precio}</td>
+                <td>${cantidad}</td>
+                <td>${total}</td>
+            </tr>
+        `;
+        $('#productosTable tbody').append(newRow);
+        
+        // Limpiar campos
+        document.getElementById('producto').value = '';
+        document.getElementById('descripcion').value = '';
+        document.getElementById('precio').value = '';
+        document.getElementById('cantidad').value = '';
+        document.getElementById('total').value = '';
+
+        // Resetear el resultado en el controlador
+        $('#total').val('@ViewBag.Total');
+    });
+</script>

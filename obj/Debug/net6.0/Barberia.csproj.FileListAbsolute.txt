@@ -1,0 +1,88 @@
+/Users/mmejia/Documents/Barberia/bin/Debug/net6.0/appsettings.Development.json
+/Users/mmejia/Documents/Barberia/bin/Debug/net6.0/appsettings.json
+/Users/mmejia/Documents/Barberia/bin/Debug/net6.0/Barberia.staticwebassets.runtime.json
+/Users/mmejia/Documents/Barberia/bin/Debug/net6.0/Barberia
+/Users/mmejia/Documents/Barberia/bin/Debug/net6.0/Barberia.deps.json
+/Users/mmejia/Documents/Barberia/bin/Debug/net6.0/Barberia.runtimeconfig.json
+/Users/mmejia/Documents/Barberia/bin/Debug/net6.0/Barberia.dll
+/Users/mmejia/Documents/Barberia/bin/Debug/net6.0/Barberia.pdb
+/Users/mmejia/Documents/Barberia/obj/Debug/net6.0/Barberia.csproj.AssemblyReference.cache
+/Users/mmejia/Documents/Barberia/obj/Debug/net6.0/Barberia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mmejia/Documents/Barberia/obj/Debug/net6.0/Barberia.AssemblyInfoInputs.cache
+/Users/mmejia/Documents/Barberia/obj/Debug/net6.0/Barberia.AssemblyInfo.cs
+/Users/mmejia/Documents/Barberia/obj/Debug/net6.0/Barberia.csproj.CoreCompileInputs.cache
+/Users/mmejia/Documents/Barberia/obj/Debug/net6.0/Barberia.MvcApplicationPartsAssemblyInfo.cache
+/Users/mmejia/Documents/Barberia/obj/Debug/net6.0/Barberia.RazorAssemblyInfo.cache
+/Users/mmejia/Documents/Barberia/obj/Debug/net6.0/Barberia.RazorAssemblyInfo.cs
+/Users/mmejia/Documents/Barberia/obj/Debug/net6.0/staticwebassets.build.json
+/Users/mmejia/Documents/Barberia/obj/Debug/net6.0/staticwebassets.development.json
+/Users/mmejia/Documents/Barberia/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/mmejia/Documents/Barberia/obj/Debug/net6.0/scopedcss/bundle/Barberia.styles.css
+/Users/mmejia/Documents/Barberia/obj/Debug/net6.0/scopedcss/projectbundle/Barberia.bundle.scp.css
+/Users/mmejia/Documents/Barberia/obj/Debug/net6.0/Barberia.dll
+/Users/mmejia/Documents/Barberia/obj/Debug/net6.0/refint/Barberia.dll
+/Users/mmejia/Documents/Barberia/obj/Debug/net6.0/Barberia.pdb
+/Users/mmejia/Documents/Barberia/obj/Debug/net6.0/Barberia.genruntimeconfig.cache
+/Users/mmejia/Documents/Barberia/obj/Debug/net6.0/ref/Barberia.dll
+C:\Users\Juan\Desktop\Barberia\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Juan\Desktop\Barberia\bin\Debug\net6.0\appsettings.json
+C:\Users\Juan\Desktop\Barberia\bin\Debug\net6.0\Barberia.staticwebassets.runtime.json
+C:\Users\Juan\Desktop\Barberia\bin\Debug\net6.0\Barberia.exe
+C:\Users\Juan\Desktop\Barberia\bin\Debug\net6.0\Barberia.deps.json
+C:\Users\Juan\Desktop\Barberia\bin\Debug\net6.0\Barberia.runtimeconfig.json
+C:\Users\Juan\Desktop\Barberia\bin\Debug\net6.0\Barberia.dll
+C:\Users\Juan\Desktop\Barberia\bin\Debug\net6.0\Barberia.pdb
+C:\Users\Juan\Desktop\Barberia\obj\Debug\net6.0\Barberia.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\Barberia\obj\Debug\net6.0\Barberia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Desktop\Barberia\obj\Debug\net6.0\Barberia.AssemblyInfoInputs.cache
+C:\Users\Juan\Desktop\Barberia\obj\Debug\net6.0\Barberia.AssemblyInfo.cs
+C:\Users\Juan\Desktop\Barberia\obj\Debug\net6.0\Barberia.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\Barberia\obj\Debug\net6.0\Barberia.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juan\Desktop\Barberia\obj\Debug\net6.0\Barberia.RazorAssemblyInfo.cache
+C:\Users\Juan\Desktop\Barberia\obj\Debug\net6.0\Barberia.RazorAssemblyInfo.cs
+C:\Users\Juan\Desktop\Barberia\obj\Debug\net6.0\staticwebassets\msbuild.Barberia.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Juan\Desktop\Barberia\obj\Debug\net6.0\staticwebassets\msbuild.build.Barberia.props
+C:\Users\Juan\Desktop\Barberia\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Barberia.props
+C:\Users\Juan\Desktop\Barberia\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Barberia.props
+C:\Users\Juan\Desktop\Barberia\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Juan\Desktop\Barberia\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Juan\Desktop\Barberia\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Juan\Desktop\Barberia\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Juan\Desktop\Barberia\obj\Debug\net6.0\scopedcss\bundle\Barberia.styles.css
+C:\Users\Juan\Desktop\Barberia\obj\Debug\net6.0\scopedcss\projectbundle\Barberia.bundle.scp.css
+C:\Users\Juan\Desktop\Barberia\obj\Debug\net6.0\Barberia.dll
+C:\Users\Juan\Desktop\Barberia\obj\Debug\net6.0\refint\Barberia.dll
+C:\Users\Juan\Desktop\Barberia\obj\Debug\net6.0\Barberia.pdb
+C:\Users\Juan\Desktop\Barberia\obj\Debug\net6.0\Barberia.genruntimeconfig.cache
+C:\Users\Juan\Desktop\Barberia\obj\Debug\net6.0\ref\Barberia.dll
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\bin\Debug\net6.0\appsettings.json
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\bin\Debug\net6.0\Barberia.staticwebassets.runtime.json
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\bin\Debug\net6.0\Barberia.exe
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\bin\Debug\net6.0\Barberia.deps.json
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\bin\Debug\net6.0\Barberia.runtimeconfig.json
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\bin\Debug\net6.0\Barberia.dll
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\bin\Debug\net6.0\Barberia.pdb
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\obj\Debug\net6.0\Barberia.csproj.AssemblyReference.cache
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\obj\Debug\net6.0\Barberia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\obj\Debug\net6.0\Barberia.AssemblyInfoInputs.cache
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\obj\Debug\net6.0\Barberia.AssemblyInfo.cs
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\obj\Debug\net6.0\Barberia.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\obj\Debug\net6.0\Barberia.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\obj\Debug\net6.0\Barberia.RazorAssemblyInfo.cache
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\obj\Debug\net6.0\Barberia.RazorAssemblyInfo.cs
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\obj\Debug\net6.0\staticwebassets\msbuild.Barberia.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\obj\Debug\net6.0\staticwebassets\msbuild.build.Barberia.props
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Barberia.props
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Barberia.props
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\obj\Debug\net6.0\scopedcss\bundle\Barberia.styles.css
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\obj\Debug\net6.0\scopedcss\projectbundle\Barberia.bundle.scp.css
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\obj\Debug\net6.0\Barberia.dll
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\obj\Debug\net6.0\refint\Barberia.dll
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\obj\Debug\net6.0\Barberia.pdb
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\obj\Debug\net6.0\Barberia.genruntimeconfig.cache
+C:\Users\Juan\Documents\Visual Studio 2022\Barberia\obj\Debug\net6.0\ref\Barberia.dll
