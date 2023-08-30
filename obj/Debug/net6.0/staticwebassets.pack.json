@@ -17,6 +17,14 @@
       "PackagePath": "staticwebassets\\Img\\Fondo_Principal.jpeg"
     },
     {
+      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\css\\main.min.css",
+      "PackagePath": "staticwebassets\\css\\main.min.css"
+    },
+    {
       "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -27,6 +35,14 @@
     {
       "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\js\\main.min.js",
+      "PackagePath": "staticwebassets\\js\\main.min.js"
     },
     {
       "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\js\\site.js",

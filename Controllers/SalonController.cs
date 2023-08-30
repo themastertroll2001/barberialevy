@@ -1,15 +1,17 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Barberia.Data;
 using Barberia.Models;
 namespace Barberia.Controllers
 {
     public class SalonController : Controller
     {
         private readonly ILogger<SalonController> _logger;
-
-        public SalonController(ILogger<SalonController> logger)
+        private readonly IDAL _idal;
+        public SalonController(ILogger<SalonController> logger, IDAL idal)
         {
             _logger = logger;
+            _idal = idal;
         }
         public IActionResult Index()
         {
@@ -18,10 +20,13 @@ namespace Barberia.Controllers
         public IActionResult Registrocitas()
         {
             return View();
+
         }
         public IActionResult Citasdiarias()
         {
+            ViewData["Events"] = JSONListEvent.GetEventListJSONString(_idal.GetEvents()); // Añade esta línea
             return View();
+
         }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

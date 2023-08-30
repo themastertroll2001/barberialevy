@@ -1,6 +1,7 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Barberia.Models;
+using Barberia.Data;
 
 namespace Barberia.Controllers;
 
@@ -31,14 +32,7 @@ public class HomeController : Controller
     {
         return View();
     }
-    public IActionResult Iniciarsesion()
-    {
-        return View();
-    }
-    public IActionResult Registro()
-    {
-        return View();
-    }
+   
     [HttpPost] // Cambio: Usar POST para procesar el formulario
     public IActionResult CalcularTotal(decimal precio, int cantidad)
     {
