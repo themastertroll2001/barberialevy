@@ -27,6 +27,7 @@ namespace Barberia.Controllers
         }
 
         // GET: Event
+        [Authorize(Roles = "Admin ")]
         public IActionResult Index()
         {
             if (TempData["Alert"] != null)
@@ -36,7 +37,7 @@ namespace Barberia.Controllers
             return View(_dal.GetEvents());
 
         }
-
+        [Authorize(Roles = "Admin ")]
         // GET: Event/Details/5
         public IActionResult Details(int? id)
         {
@@ -55,6 +56,8 @@ namespace Barberia.Controllers
         }
 
         // GET: Event/Create
+        [Authorize(Roles = "Admin , User")]
+
         public IActionResult Create()
         {
 
@@ -82,7 +85,7 @@ namespace Barberia.Controllers
                 };
                 _dal.CreateEvent(newEvent);
                 TempData["Alert"] = "¡Éxito! Has creado un nuevo evento: " + form["Nombre"];
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction("Citasdiarias", "Salon");
             }
             catch (Exception ex)
             {
@@ -90,7 +93,7 @@ namespace Barberia.Controllers
                 return View();
             }
         }
-
+        [Authorize(Roles = "Admin ")]
         // GET: Event/Edit/5
         public IActionResult Edit(int? id)
         {
@@ -139,6 +142,7 @@ namespace Barberia.Controllers
         }
 
         // GET: Event/Delete/5
+        [Authorize(Roles = "Admin ")]
         public IActionResult Delete(int? id)
         {
             var @event = _dal.GetEvent((int)id);

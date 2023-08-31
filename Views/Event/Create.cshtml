@@ -46,7 +46,10 @@
 </div>
 
 <div>
-    <a asp-action="Index">Regresar a lista</a>
+    @if (User.IsInRole("Admin"))
+    {
+        <a asp-action="Index">Regresar a lista</a>
+    }
 </div>
 
 @section Scripts {

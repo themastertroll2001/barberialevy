@@ -2,6 +2,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Barberia.Data;
 using Barberia.Models;
+using Microsoft.AspNetCore.Authorization;
+using System.Data;
+
 namespace Barberia.Controllers
 {
     public class SalonController : Controller
@@ -13,15 +16,13 @@ namespace Barberia.Controllers
             _logger = logger;
             _idal = idal;
         }
+       
         public IActionResult Index()
         {
             return View();
         }
-        public IActionResult Registrocitas()
-        {
-            return View();
-
-        }
+       
+       
         public IActionResult Citasdiarias()
         {
             ViewData["Events"] = JSONListEvent.GetEventListJSONString(_idal.GetEvents()); // Añade esta línea

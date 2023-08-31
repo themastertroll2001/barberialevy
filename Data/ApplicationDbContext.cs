@@ -1,10 +1,15 @@
 ﻿using Barberia.Models;
+
+using Microsoft.AspNetCore.Identity;
+
+using Microsoft.Extensions.Configuration;
+using System.IO;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace Barberia.Data
 {
-    public class ApplicationDbContext : IdentityDbContext
+    public class ApplicationDbContext : IdentityDbContext<IdentityUser, IdentityRole, string>
     {
         public ApplicationDbContext(DbContextOptions options) : base(options)
         {
