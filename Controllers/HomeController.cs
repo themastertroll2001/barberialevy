@@ -32,7 +32,10 @@ public class HomeController : Controller
     {
         return View();
     }
-   
+    public IActionResult Tienda()
+    {
+        return View();
+    }
     [HttpPost] // Cambio: Usar POST para procesar el formulario
     public IActionResult CalcularTotal(decimal precio, int cantidad)
     {

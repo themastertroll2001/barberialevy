@@ -17,6 +17,34 @@
       "PackagePath": "staticwebassets\\Img\\Fondo_Principal.jpeg"
     },
     {
+      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\admincss\\styles.css",
+      "PackagePath": "staticwebassets\\admincss\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\adminjs\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\adminjs\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\adminjs\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\adminjs\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\adminjs\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\adminjs\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\adminjs\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\adminjs\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\adminjs\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\adminjs\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\adminjs\\scripts.js",
+      "PackagePath": "staticwebassets\\adminjs\\scripts.js"
+    },
+    {
       "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\css\\main.css",
       "PackagePath": "staticwebassets\\css\\main.css"
     },
@@ -33,6 +61,10 @@
       "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
+      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\css\\styles2.css",
+      "PackagePath": "staticwebassets\\css\\styles2.css"
+    },
+    {
       "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
@@ -43,6 +75,10 @@
     {
       "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\js\\main.min.js",
       "PackagePath": "staticwebassets\\js\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
     },
     {
       "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\js\\site.js",

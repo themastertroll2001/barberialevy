@@ -28,7 +28,6 @@
                         aria-expanded="false" aria-label="Toggle navigation" style="background-color: white;" >
                     <span class="navbar-toggler-icon" ></span>
                 </button>
-
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between" style="color: white;">
                     <ul class="navbar-nav flex-grow-1 ">
                         <li class="nav-item">
@@ -59,20 +58,34 @@
                                 </div>
                             </div>
                        </li>
-                      
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Tienda">Tienda</a>
+                        </li>
                      </ul>
-
+                    
                 </div>
+               
+            </div>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+                <form class="d-flex">
+                    <button class="btn btn-outline-light me-1" type="submit" style="margin-right: 5px;">
+                        <i class="bi-cart-fill me-1"></i>
+                        Carrito
+                        <span class="badge bg-dark text-white ms-1 rounded-pill">0</span>
+                    </button>
+                </form>
             </div>
             <partial name="_LoginPartial"/>
         </nav>
     </header>
+     
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
-
+    
     <footer class=" fixed-bottom footer bg-dark " >
         <div class="container text-white">
             &copy; 2023 - Barberia - <a asp-area="" asp-controller="Home" asp-action="Privacy" class="text-white">Levy</a>
