@@ -1,315 +1,339 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Barberia.bundle.scp.css",
+      "Id": "D:\\barberialevy\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Barberia.bundle.scp.css",
       "PackagePath": "staticwebassets\\Barberia.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\.DS_Store",
+      "Id": "D:\\barberialevy\\wwwroot\\.DS_Store",
       "PackagePath": "staticwebassets\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\Img\\8-2.jpg",
+      "Id": "D:\\barberialevy\\wwwroot\\Img\\8-2.jpg",
       "PackagePath": "staticwebassets\\Img\\8-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\Img\\Fondo_Principal.jpeg",
+      "Id": "D:\\barberialevy\\wwwroot\\Img\\Fondo_Principal.jpeg",
       "PackagePath": "staticwebassets\\Img\\Fondo_Principal.jpeg"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\admincss\\styles.css",
+      "Id": "D:\\barberialevy\\wwwroot\\Img\\corte1.jpg",
+      "PackagePath": "staticwebassets\\Img\\corte1.jpg"
+    },
+    {
+      "Id": "D:\\barberialevy\\wwwroot\\Img\\corte2.jpg",
+      "PackagePath": "staticwebassets\\Img\\corte2.jpg"
+    },
+    {
+      "Id": "D:\\barberialevy\\wwwroot\\Img\\corte3.jpg",
+      "PackagePath": "staticwebassets\\Img\\corte3.jpg"
+    },
+    {
+      "Id": "D:\\barberialevy\\wwwroot\\Img\\corte4.jpg",
+      "PackagePath": "staticwebassets\\Img\\corte4.jpg"
+    },
+    {
+      "Id": "D:\\barberialevy\\wwwroot\\Img\\corte5.jpg",
+      "PackagePath": "staticwebassets\\Img\\corte5.jpg"
+    },
+    {
+      "Id": "D:\\barberialevy\\wwwroot\\Img\\corte6.jpg",
+      "PackagePath": "staticwebassets\\Img\\corte6.jpg"
+    },
+    {
+      "Id": "D:\\barberialevy\\wwwroot\\admincss\\styles.css",
       "PackagePath": "staticwebassets\\admincss\\styles.css"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\adminjs\\chart-area-demo.js",
+      "Id": "D:\\barberialevy\\wwwroot\\adminjs\\chart-area-demo.js",
       "PackagePath": "staticwebassets\\adminjs\\chart-area-demo.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\adminjs\\chart-bar-demo.js",
+      "Id": "D:\\barberialevy\\wwwroot\\adminjs\\chart-bar-demo.js",
       "PackagePath": "staticwebassets\\adminjs\\chart-bar-demo.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\adminjs\\chart-pie-demo.js",
+      "Id": "D:\\barberialevy\\wwwroot\\adminjs\\chart-pie-demo.js",
       "PackagePath": "staticwebassets\\adminjs\\chart-pie-demo.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\adminjs\\datatables-demo.js",
+      "Id": "D:\\barberialevy\\wwwroot\\adminjs\\datatables-demo.js",
       "PackagePath": "staticwebassets\\adminjs\\datatables-demo.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\adminjs\\datatables-simple-demo.js",
+      "Id": "D:\\barberialevy\\wwwroot\\adminjs\\datatables-simple-demo.js",
       "PackagePath": "staticwebassets\\adminjs\\datatables-simple-demo.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\adminjs\\scripts.js",
+      "Id": "D:\\barberialevy\\wwwroot\\adminjs\\scripts.js",
       "PackagePath": "staticwebassets\\adminjs\\scripts.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\css\\main.css",
+      "Id": "D:\\barberialevy\\wwwroot\\css\\main.css",
       "PackagePath": "staticwebassets\\css\\main.css"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\css\\main.min.css",
+      "Id": "D:\\barberialevy\\wwwroot\\css\\main.min.css",
       "PackagePath": "staticwebassets\\css\\main.min.css"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\css\\site.css",
+      "Id": "D:\\barberialevy\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\css\\styles.css",
+      "Id": "D:\\barberialevy\\wwwroot\\css\\styles.css",
       "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\css\\styles2.css",
+      "Id": "D:\\barberialevy\\wwwroot\\css\\styles2.css",
       "PackagePath": "staticwebassets\\css\\styles2.css"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\favicon.ico",
+      "Id": "D:\\barberialevy\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\js\\main.js",
+      "Id": "D:\\barberialevy\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\js\\main.min.js",
+      "Id": "D:\\barberialevy\\wwwroot\\js\\main.min.js",
       "PackagePath": "staticwebassets\\js\\main.min.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\js\\scripts.js",
+      "Id": "D:\\barberialevy\\wwwroot\\js\\scripts.js",
       "PackagePath": "staticwebassets\\js\\scripts.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\js\\site.js",
+      "Id": "D:\\barberialevy\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Juan\\Documents\\Visual Studio 2022\\Barberia\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\barberialevy\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
