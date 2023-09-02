@@ -15,6 +15,7 @@ namespace Barberia.Data
         void CreateEvent(Event myEvent);  // Modificado para aceptar Event
         void UpdateEvent(Event myEvent);  // Modificado para aceptar Event
         void DeleteEvent(int id);
+       
     }
 
     public class DAL : IDAL
@@ -62,5 +63,6 @@ namespace Barberia.Data
                 _db.SaveChanges();
             }
         }
+       
     }
 }

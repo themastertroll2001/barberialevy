@@ -74,6 +74,7 @@ namespace Barberia.Controllers
             try
             {
                 string userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+             
                 var newEvent = new Event
                 {
                     Nombre = form["Nombre"],
@@ -83,6 +84,15 @@ namespace Barberia.Controllers
                     Finfecha = DateTime.Parse(form["Finfecha"]),
                     UserId = userId
                 };
+                var existingEvent = _dal.GetEvents().FirstOrDefault(e =>
+          e.Fechainicio < newEvent.Finfecha && e.Finfecha > newEvent.Fechainicio);
+
+                if (existingEvent != null)
+                {
+                    ViewData["Alert"] = "Ya existe una cita para el rango de tiempo seleccionado.";
+                    return View();  // Devolver la vista con el mensaje de error
+                }
+
                 _dal.CreateEvent(newEvent);
                 TempData["Alert"] = "¡Éxito! Has creado un nuevo evento: " + form["Nombre"];
                 return RedirectToAction("Citasdiarias", "Salon");

@@ -34,6 +34,11 @@ namespace Barberia.Data
             }
         }
         public DbSet<Event> Events { get; set; }
+        public DbSet<Zona> Zonas { get; set; }
+        public DbSet<Producto> Productos { get; set; }
+        public DbSet<DetalleCompra> DetalleCompras { get; set; }
+        public DbSet<Compra> Compras { get; set; }
+        public DbSet<Carrito> Carritos { get; set; }
 
     }
 }

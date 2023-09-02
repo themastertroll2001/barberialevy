@@ -1,12 +1,17 @@
 ﻿@model Barberia.Models.Event
 
 @{
-    ViewData["Title"] = "Crea cita";
+    ViewData["Title"] = "Crear cita";
 }
-
+@if (ViewData["Alert"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewData["Alert"]
+    </div>
+}
 <h1>@ViewData["Title"]</h1>
 
-<h4>Crea nueva cita</h4>
+<h5>Verificar la lista del calendario mensual para reservacion de citas </h5>
 <hr />
 <div class="row">
     <div class="col-md-6">
@@ -14,7 +19,7 @@
             <div asp-validation-summary="All" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="Nombre" class="control-label">Nombre</label>
-                <input asp-for="Nombre" class="form-control" />
+                <input asp-for="Nombre" class="form-control" autocomplete="off" />
                 <span asp-validation-for="Nombre" class="text-danger"></span>
             </div>
             <div class="form-group">
@@ -24,17 +29,17 @@
             </div>
             <div class="form-group">
                 <label asp-for="Telefono" class="control-label">Teléfono</label>
-                <input asp-for="Telefono" class="form-control" type="tel" />
+                <input asp-for="Telefono" class="form-control" type="tel" autocomplete="off" />
                 <span asp-validation-for="Telefono" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Fechainicio" class="control-label">Fecha de Inicio</label>
-                <input asp-for="Fechainicio" class="form-control" type="datetime-local" />
+                <input id="fechaInicio" asp-for="Fechainicio" class="form-control" type="datetime-local" />
                 <span asp-validation-for="Fechainicio" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Finfecha" class="control-label">Fecha Final</label>
-                <input asp-for="Finfecha" class="form-control" type="datetime-local" />
+                <input id="fechaFin" asp-for="Finfecha" class="form-control" type="datetime-local" />
                 <span asp-validation-for="Finfecha" class="text-danger"></span>
             </div>
 
@@ -56,4 +61,23 @@
     @{
         await Html.RenderPartialAsync("_ValidationScriptsPartial");
     }
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const fechaInicio = document.getElementById("fechaInicio");
+            const fechaFin = document.getElementById("fechaFin");
+
+            fechaInicio.addEventListener("change", function () {
+                const fechaInicioVal = new Date(fechaInicio.value);
+                fechaInicioVal.setHours(fechaInicioVal.getHours() + 1);
+
+                const year = fechaInicioVal.getFullYear();
+                const month = String(fechaInicioVal.getMonth() + 1).padStart(2, '0');
+                const day = String(fechaInicioVal.getDate()).padStart(2, '0');
+                const hours = String(fechaInicioVal.getHours()).padStart(2, '0');
+                const minutes = String(fechaInicioVal.getMinutes()).padStart(2, '0');
+
+                fechaFin.value = `${year}-${month}-${day}T${hours}:${minutes}`;
+            });
+        });
+    </script>
 }
